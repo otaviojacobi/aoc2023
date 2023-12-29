@@ -1,0 +1,17 @@
+dict_values([None, None, None, 0])
+0 zk
+dict_values([None, None, 0, 0])
+0 qs
+dict_values([None, 0, 0, 0])
+0 jf
+dict_values([0, 0, 0, 0])
+0 ks
+dict_values([0, 0, 0, 0])
+0 zk
+dict_values([0, 0, 0, 0])
+0 qs
+dict_values([0, 0, 0, 0])
+0 jf
+dict_values([0, 0, 0, 0])
+0 ks
+{'ks': 0, 'jf': 0, 'qs': 0, 'zk': 0}
